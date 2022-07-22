@@ -1,0 +1,40 @@
+Points of Emphasis: 
+
+	Open Source & Easily Customizable 
+	
+	Easily create custom automation commands and integrate them with Dehko by modifying a single settings JSON file. We try to make it easy for you so that you can make the changes that you want stress free.
+
+	Versatile To Meet Everyone's Needs
+	
+	Can be used by developers looking to streamline the process of setting up their workflow, students looking to establish routines, or just anyone who wants to eliminate the feeling of monotony and reptition. 
+
+	Plug & Play - Production Ready From the Box 
+
+	Easy to install with minimal set up. Dehko was designed to easily download any required dependencies and isolate project libraries through intentionally managed through package managers. 
+
+
+-----------------------------------------
+
+	Versailtile  
+
+	- Customization 
+		- Powerful tool that meets the needs of everyone 
+		- Easily customizable through a single JSON settings file 
+		- Built on Python allowing for easy creation of scripts
+		- Open Source 
+	
+	- Meets the needs of everyone 
+		- Can be used by either developers or students looking to elim...
+	
+	- Plug and Play! Production Ready from the Box 
+		- Easy to install and set up 
+		- No special permissions required 
+		- Dependencies and project libraries are isolated
+
+
+---------
+
+High Quality Artwork Links: 
+
+- https://www.pixeltrue.com/premium/adventure-illustrations
+- https://www.pixeltrue.com/premium/hexa-illustrations
